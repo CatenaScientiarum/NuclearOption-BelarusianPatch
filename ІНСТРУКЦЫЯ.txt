@@ -1,0 +1,9 @@
+Беларуская лакалізацыя для Nuclear Option
+
+Усталяванне:
+1. Усталюйце BepInEx (Unity IL2CPP)
+2. Змесціце ўсе файлы ў BepInEx/plugins/LocalizationPatch_blr/:
+   - LocalizationPatch.dll
+   - blr.json
+   - Exo2-Regular.ttf
+3. Запусціце гульню
