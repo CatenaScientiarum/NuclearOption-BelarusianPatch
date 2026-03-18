@@ -1,4 +1,5 @@
 {
+    // ========== Main Menu ==========
     "Play": "Гуляць",
     "PLAY": "ГУЛЯЦЬ",
     "Singleplayer": "Адзіночная",
@@ -48,6 +49,8 @@
     "Community": "Супольнасць",
     "DONATE": "ПАДТРЫМАЦЬ",
     "Donate": "Падтрымаць",
+
+    // ========== Workshop  ==========
     "Enter text...": "Увядзіце тэкст...",
     "Aircraft Livery": "Афарбоўка самалёта",
     "FILTERS": "ФІЛЬТРЫ",
@@ -62,11 +65,15 @@
     "OPEN WORKSHOP": "МАЙСТЭРНЯ",
     "< BACK TO LIST": "НАЗАД ДА СПІСА",
     "CLOSE WORKSHOP": "ВЫЙСЦІ",
+
+    // ========== Gamepad  Screen ==========
     "To help gamepad users access all the game's features, we've added two radial menus. If using default control bindings, these can be accessed by holding D-Pad Left or Right. If you want to use radial menus and have modified the default control bindings, you will need to reset them to default from Settings > Controls > Control Bindings.": "Каб дапамагчы карыстальнікам геймпадаў атрымаць доступ да ўсіх функцый гульні, мы дадалі два радыяльныя меню. Пры выкарыстанні стандартных налад кіравання, доступ да іх можна атрымаць, утрымліваючы D-Pad налева або направа. Калі вы хочаце выкарыстоўваць радыяльныя меню, але змянілі стандартныя прызначэнні, вам спатрэбіцца скінуць іх да значэнняў Налады > Кіраванне > Прызначэнне клавіш.",
     "Aircraft Systems (hold D-Pad Left)": "Сістэми самалёта (утрымлівайце D-Pad налева)",
     "Weapon Wheel (hold D-Pad Right)": "Кола зброі (утрымлівайце D-Pad направа)",
     "Additionally, you can now hold down a modifier button (Default D-Pad Down) while adjusting throttle, allowing you to manually vector VTOL aircraft without needing a separate axis.": "Акрамя таго, цяпер вы можаце ўтрымліваць кнопку-мадыфікатар (па змаўчанні D-Pad уніз) падчас рэгулявання цягі, што дазваляє ўручную змяняць вектар цягі (ЛАВП) без патрэбы ў асобнай восі.",
     "If you don't want to use radial menus, you can instead bind each of the radial menu features to buttons on your keyboard or HOTAS.": "Калі вы не хочаце выкарыстоўваць радыяльныя меню, вы можаце замест гэтага прызначыць кожную з функцый радыяльнага меню на клавішы клавіятуры або кнопкі вашай сістэмы HOTAS.",
+
+    // ========== Mission Select Screen ==========
     "SELECT MISSION": "ВЫБАР МІСІІ",
     "Select Mission": "Выбар місіі",
     "SINGLE PLAYER MISSIONS": "АДЗІНОЧНЫЯ МІСІІ",
@@ -86,6 +93,8 @@
     "USER": "КАРЫСТАЛЬНІЦКІЯ",
     "PvE": "PvE",
     "PvP": "PvP",
+
+    // ========== Game Modes ==========
     "Instant Action": "Хуткі бой",
     "INSTANT ACTION": "ХУТКІ БОЙ",
     "Escalation": "Эскалацыя",
@@ -99,10 +108,14 @@
     "Missions": "Місіі",
     "MISSIONS": "МІСІІ",
     "Mission": "Місія",
+
+    // ========== Filter Tags ==========
     "All": "Усе",
     "ALL": "УСЕ",
     "Singleplayer Missions": "Адзіночныя місіі",
     "Multiplayer Missions": "Шматкарыстальніцкія місіі",
+
+    // ========== Mission Names (Прямий переклад) ==========
     "Bridge Defense": "Абарона моста",
     "Blackout": "Блэкаўт",
     "Infiltration": "Пракнікненне",
@@ -150,11 +163,15 @@
     "Point Blank": "Ва ўпор",
     "Cruise Missile Interception": "Перахоп крылатай ракеты",
     "Furball": "Паветраная сутычка",
+
+    // --- Tutorial Sub-names ---
     "Taxi and Takeoff": "Руленне і ўзлёт",
     "Landing": "Пасадка",
     "Targeting and Weapons": "Прыцэльванне і ўзбраенне",
     "Infrared Countermeasures": "Інфрачырвоныя сродкі процідзеяння",
-    "Radar Countermeasures": "Радыёлакацыйныя сродкі процідзеяння",
+    "Radar Countermeasures": "Радыёлакацыйныя сродкі процідзеяння", 
+
+    // ========== Mission Tags ==========
     "Co-op": "Сумесная гульня",
     "Co-op as BDF": "Сумесная гульня (за BDF)",
     "Co-op as PALA": "Сумесная гульня (за PALA)",
@@ -166,6 +183,8 @@
     "Domination Co-op as PALA": "Дамінаванне (за PALA)",
     "Escalation Co-op as BDF": "Эскалацыя (за BDF)",
     "Escalation Co-op as PALA": "Эскалацыя (за PALA)",
+
+    // ========== Mission Customize ==========
     "Mission Parameters": "Параметры місіі",
     "MISSION PARAMETERS": "ПАРАМЕТРЫ МІСІІ",
     "Environment Settings": "Налады асяроддзя",
@@ -189,6 +208,8 @@
     "Cloud Cover": "Воблачнасць",
     "Map Size": "Памер карты",
     "Mission Name": "Назва місіі",
+
+    // --- Mission Parameters Detail ---
     "Player Starting Rank": "Пачатковы ранг гульца",
     "Score Rank Multiplier": "Множнік рангу за ачкі",
     "Allow Player Respawn": "Дазволіць адраджэнне",
@@ -200,6 +221,8 @@
     "Wrecks Despawn Time": "Час знікнення уламкаў",
     "No despawn": "Без знікнення",
     "No decay": "Без разпаду",
+
+    // --- Environment Detail ---
     "Time Factor": "Множнік часу",
     "Conditions": "МЕТЭА",
     "Scattered Cloud": "Рассеяныя воблакі",
@@ -225,6 +248,8 @@
     "Light Rain": "Дробны дождж",
     "Heavy Rain": "Лівень",
     "Thunderstorm": "Навальніца",
+
+    // --- Faction Settings Detail ---
     "Both": "Абедзве",
     "Both Factions": "Абедзве фракцыі",
     "Prevent Players Joining Faction": "Забараніць гульцам далучацца да фракцыі",
@@ -246,6 +271,8 @@
     "Reduce AI Per Friendly": "Змяншаць ШІ за кожнага саюзніка",
     "Add AI Aircraft per enemy Player": "Дадаваць ШІ за варожага гульца",
     "Add AI Per Enemy": "Дадаваць ШІ за кожнага ворага",
+
+    // ========== Multiplayer ==========
     "Quick Match": "Хуткая гульня",
     "QUICK MATCH": "ХУТКАЯ ГУЛЬНЯ",
     "Host": "Стварыць",
@@ -291,6 +318,25 @@
     "Region": "Рэгіён",
     "Game Mode": "Рэжым гульні",
     "Game mode": "Рэжым гульні",
+    "Loading Mission.": "Загрузка Місіі.",
+    "Loading Mission..": "Загрузка Місіі..",
+    "Loading Mission...": "Загрузка Місіі...",
+    "Refreshing Lobbies": "Абнаўленне Лобі",
+    "Joining Server...": "Далучэнне Да Сервера...",
+    "Connecting via Steam": "Падключэнне Праз Steam",
+    "Mission Description": "Апісанне Місіі",
+    "Player Hosted": "Створана Гравцом",
+    "Dedicated Server": "Выдзелены Сервер",
+    "PVE": "PVE",
+    "UpTime": "Час Работы",
+    "Join Lobby": "Далучыцца Да Лобі",
+    "Connect Failed": "Памылка Злучэння",
+    "Client Error": "Памылка Кліента",
+    "Getting AuthTicket": "Атрыманне Токена Аўтарызацыі",
+    "Authenticating with Server": "Аўтарызацыя На Серверы",
+    "Build Number did not match server!": "Нумар Зборкі Не Супадае З Серверам!",
+
+    // ========== Aircraft Selection ==========
     "Select Aircraft": "Выбраць Борт",
     "SELECT AIRCRAFT": "ВЫБРАЦЬ БОРТ",
     "Aircraft": "Барты",
@@ -344,6 +390,8 @@
     "Return": "Вярнуць",
     "Sell": "Прадаць",
     "Buy": "Набыць",
+
+    // ========== Aircraft Stats ==========
     "Value": "Вартасць",
     "Value :": "Вартасць :",
     "Payload": "Навантажэнне",
@@ -354,6 +402,11 @@
     "THROTTLE:": "ЦЯГА :",
     "AIRBRAKE": "ПАВЕТРАНАЕ ТОРМАЗ",
     "THROTTLE :": "ЦЯГА :",
+    "OUT OF ARC": "ПА-ЗА КУТАМ",
+    "OUT OF RANGE": "ЗАДАЛЁКА",
+    "TOO SLOW": "МАЛА ХУТК.",
+    "TOO CLOSE": "БЛІЗКА",
+    "SHOOT": "АГОНЬ",
     "Total": "Усяго",
     "Total :": "Усяго:",
     "T/W": "Цяга/Вага",
@@ -426,6 +479,8 @@
     "Crew": "Экіпаж",
     "Crew :": "Экіпаж :",
     "TNT": "ТНТ",
+
+    // ========== Weapon Mounts & Pylons ==========
     "Chin Turret": "Насавая турэль",
     "Floor Turret Mount": "Ніжняя турэльная ўстаноўка",
     "Dorsal Mount": "Спінная ўстаноўка",
@@ -442,6 +497,8 @@
     "Outer Fuselage Pylons": "Знешнія фюзеляжныя пілони",
     "Inner wing pylons": "Унутраныя крылавыя пілоны",
     "Outer wing pylons": "Знешнія крылавыя пілоны",
+
+    // ========== Weapon Bays ==========
     "Internal Bays": "Унутраныя адсекі",
     "Internal Weapon Bays": "Унутраныя зброевыя адсекі",
     "Forward Bay": "Пярэдні адсек",
@@ -455,6 +512,8 @@
     "Outer weapon bays": "Знешнія зброевыя адсекі",
     "Inner Forward Weapon Bay": "Унутраны пярэдні зброевы адсек",
     "Inner Rear Weapon Bays": "Унутраныя заднія зброевыя адсекі",
+
+    // ========== Faction ==========
     "Faction": "Фракцыя",
     "Faction score :": "Ачкі фракцыі :",
     "Faction funds :": "Сродкі фракцыі :",
@@ -463,6 +522,8 @@
     "Faction score": "Ачкі фракцыі",
     "Faction funds": "Сродкі фракцыі",
     "Nuclear stockpile": "Ядзерны арсенал",
+
+    // ========== Escalation Status ==========
     "Escalation Status": "Статус эскалацыі",
     "Rank": "Ранг",
     "Rank 0": "Ранг 0",
@@ -471,6 +532,8 @@
     "Rank 3": "Ранг 3",
     "Rank 4": "Ранг 4",
     "Rank 5": "Ранг 5",
+
+    // ========== Encyclopedia Tabs ==========
     "VEHICLES": "ТЭХНІКА",
     "Vehicles": "Тэхніка",
     "SHIPS": "КАРАБЛІ",
@@ -479,6 +542,8 @@
     "Buildings": "Будынкі",
     "MISSILES": "УЗБРАЕННЕ",
     "Missiles": "Узбраенне",
+
+    // ========== Weapons ==========
     "Missile": "Ракета",
     "Bomb": "Бомба",
     "Rocket": "НАП (Ракета)",
@@ -491,7 +556,6 @@
     "Heat Seeking": "Цеплавое навядзенне (ІЧ)",
     "Radar Guided": "Радыёлакацыйнае (РЛ)",
     "Semi-Active": "Напаўактыўнае",
-    "Active": "Актыўнае",
     "GPS": "GPS",
     "Laser Guided": "Лазернае навядзенне",
     "Anti-Air": "Зенітная",
@@ -511,6 +575,8 @@
     "Machine Gun": "Кулямёт",
     "Rotary Cannon": "Ротарная гармата",
     "CAPACITOR": "КАНДЭНСАТАР",
+
+    // ========== Combat HUD ==========
     "FUEL": "ПАЛІВА",
     "THRUST": "ЦЯГА",
     "COLLECTIVE": "КРОК-ГАЗ",
@@ -536,6 +602,8 @@
     "Turrets set to ": "Рэжым турэлі: ",
     "CONNECTED": "ПАД КЛЮЧАНА",
     "Select": "Выбраць",
+
+    // ========== Kill Display / Score Messages ==========
     "Detected units +": "Выяўленыя адзінкі +",
     "Jamming radar +": "Падаўленне радараў +",
     "Resupplied units +": "Папаўненне запасаў +",
@@ -543,6 +611,8 @@
     "Rescued pilots +": "Выратавана пілотаў +",
     "Captured pilots +": "Пілоты ў палоне +",
     "Captured location +": "Захоплена лакацыя +",
+
+    // ========== Airbase ==========
     "Airbase": "Авіябаза",
     "Carrier": "Авіяносец",
     "Highway Strip": "Аўтастрада",
@@ -553,6 +623,8 @@
     "Hangar": "Ангар",
     "Capturing": "Захоп",
     "Defending": "Абарона",
+
+    // ========== Buildings ==========
     "Large Factory": "Вялікі завод",
     "Vertical Factory": "Вертыкальны завод",
     "Vehicle Depot": "Дэпо тэхнікі",
@@ -570,6 +642,8 @@
     "23mm AAA Emplacement": "Зенітная пазіцыя 23-мм",
     "IRM-S1 Emplacement": "Пазіцыя ЗРК IRM-S1",
     "Control Tower": "Вежа кіравання",
+
+    // ========== Kill / Score ==========
     "KILL": "ЗАБІТЫ",
     "DESTROYED": "ЗНІШЧАНА",
     "DAMAGED": "ПАШКОДЖАНА",
@@ -586,6 +660,8 @@
     "Damage Taken": "Атрыманы ўрон",
     "Player": "Гулец",
     "Team": "Каманда",
+
+    // ========== Settings Categories ==========
     "Graphics": "Графіка",
     "GRAPHICS": "ГРАФІКА",
     "Audio": "Аўдыя",
@@ -603,6 +679,8 @@
     "Keybindings": "Прызначэнне клавіш",
     "KEYBINDINGS": "ПРЫЗНАЧЭННЕ КЛАВІШ",
     "Key Bindings": "Прызначэнне клавіш",
+
+    // ========== Graphics Settings ==========
     "Resolution": "Разрозненне",
     "Fullscreen": "На ўвесь экран",
     "Fullscreen Mode": "Поўнаэкранны рэжым",
@@ -651,6 +729,8 @@
     "LOD Bias": "Змяшчэнне LOD",
     "Volumetric Fog": "Аб'ёмны туман",
     "Screen Space Reflections": "Адлюстраванні ў экраннай прасторы",
+
+    // ========== Audio Settings ==========
     "Master Volume": "Агульная гучнасць",
     "Master": "Агульная",
     "Effects Volume": "Гучнасць эфектаў",
@@ -673,6 +753,8 @@
     "Text to Speech": "Сінтэз маўлення",
     "TTS": "TTS",
     "TTS Volume": "Гучнасць TTS",
+
+    // ========== Gameplay Settings ==========
     "Difficulty": "Складанасць",
     "Easy": "Лёгка",
     "Normal": "Нармальна",
@@ -699,6 +781,8 @@
     "Camera Auto NVG": "Аўта ПНБ для камеры",
     "Hit Markers": "Маркеры трапленняў",
     "Show Hit Markers": "Паказваць маркеры трапленняў",
+
+    // ========== HUD Settings ==========
     "HUD Scale": "Маштаб ІЛС",
     "HUD Size": "Памер ІЛС",
     "HUD Text Size": "Памер тэксту ІЛС",
@@ -729,6 +813,8 @@
     "Enemy Color": "Колер ворагаў",
     "Range Circle": "Кола дальнасці",
     "Tac Screen IR": "Тактычны экран ІЧ",
+
+    // ========== Kill Feed Detail Labels ==========
     "Kill Feed Munition": "Баяпрыпас у стужцы",
     "Kill Feed Aircraft": "Самалёт у стужцы",
     "Kill Feed Vehicle": "Тэхніка ў стужцы",
@@ -736,6 +822,8 @@
     "Kill Feed Ship": "Карабель у стужцы",
     "Kill Feed Min Value": "Мінімальная вартасць для стужкі",
     "Kill Feed Lines": "Колькасць радкоў у стужцы",
+
+    // ========== Map / Objectives ==========
     "Objective": "Заданне",
     "Objectives": "Заданні",
     "OBJECTIVES": "ЗАДАННІ",
@@ -758,6 +846,8 @@
     "Supply": "Пастаўка",
     "Reinforce": "Падмацаванне",
     "Retreat": "Адступленне",
+
+    // ========== Weather ==========
     "Clear": "Ясна",
     "Cloudy": "Воблачна",
     "Overcast": "Суцэльная воблачнасць",
@@ -775,6 +865,8 @@
     "Sunset": "Закат",
     "Noon": "Поўдзень",
     "Midnight": "Поўнач",
+
+    // ========== Misc UI ==========
     "Loading": "Загрузка",
     "Loading...": "Загрузка...",
     "Initializing Mission": "Ініцыялізацыя місіі",
@@ -806,6 +898,8 @@
     "Previous": "Папярэдні",
     "Next": "Наступны",
     "Random": "Выпадкова",
+
+    // ========== Controls Hints ==========
     "Throttle Up": "Дадаць цягу",
     "Throttle Down": "Збавiць цягу",
     "Pitch": "Тангаж",
@@ -859,6 +953,8 @@
     "Toggle mission debug menu": "Меню адладкі місіі",
     "Toggle debug graphs": "Графікі адладкі",
     "Toggle performance numbers": "Паказчыкі прадукцыйнасці",
+
+    // ========== Dialog / Messages ==========
     "Return to Main Menu": "Вярнуцца ў галоўнае меню",
     "Return to Main Menu?": "Вярнуцца ў галоўнае меню?",
     "Quit to Desktop": "Выйсці на рабочы стол",
@@ -871,6 +967,8 @@
     "was repaired": "быў адрамантаваны",
     "joined the game": "далучыўся да гульні",
     "kicked you from the game": "выгнаў вас з гульні",
+
+    // ========== Map Locations ==========
     "Airport": "Аэрапорт",
     "Port": "Порт",
     "Factory": "Завод",
@@ -893,6 +991,8 @@
     "Tower": "Вежа",
     "Outpost": "Аванпост",
     "HQ": "Штаб",
+
+    // ========== Weapon Details ==========
     "IR": "ІЧ",
     "ARH": "Актыўная РЛГСН",
     "SARH": "Напаўактыўная РЛГСН",
@@ -914,6 +1014,8 @@
     "Sustainer": "Маршавы рухавік",
     "Terminal": "Канцавы ўчастак",
     "Midcourse": "Маршавы ўчастак",
+
+    // ========== Game Messages ==========
     "Mission Complete": "Місія выканана",
     "Mission Failed": "Місія правалена",
     "Mission Complete!": "Місія выканана!",
@@ -927,9 +1029,13 @@
     "All enemy factories destroyed": "Усе варожыя заводы знішчаны",
     "All enemy airbases destroyed": "Усе варожыя авіябазы знішчаны",
     "has been captured by": "было захоплена",
+
+    // ========== Hints/Tips ==========
     "Hint": "Падказка",
     "HINT": "ПАДКАЗКА",
     "Tips & Hints": "Парады і падказкі",
+
+    // ========== Server Browser ==========
     "Filters": "Фільтры",
     "Hide Full": "Схаваць запоўненыя",
     "Hide Requires Password": "Схаваць з паролем",
@@ -952,13 +1058,17 @@
     "Max Players:": "Макс. гульцоў:",
     "Main Menu": "Галоўнае меню",
     "Search...": "Пошук...",
+
+    // ========== Faction Selection ==========
     "SELECT FACTION": "ВЫБАР ФРАКЦЫІ",
     "Select Faction": "Выбар фракцыі",
     "SPECTATE": "НАЗІРАЦЬ",
     "QUIT MISSION": "ВЫЙСЦІ З МІСІІ",
     "Quit Mission": "Выйсці з місіі",
-    "Select Home Airbase...": "Выберыце родную базу...",
-    "Select Home Airbase": "Выберыце родную базу",
+    "Select Home Airbase...": "Выберыце Пачатковую Авіябазу...",
+"Select Home Airbase": "Выберыце Пачатковую Авіябазу",
+
+    // ========== Map Screen ==========
     "MAP OPTIONS": "НАЛАДЫ КАРТЫ",
     "Map Options": "Налады карты",
     "MARKERS": "МАРКЕРЫ",
@@ -988,6 +1098,8 @@
     "ENEMIES": "ВАРОЖЫЯ",
     "LASER": "ЛАЗЕР",
     "MIS": "Місія",
+
+    // ========== Aircraft Interface ==========
     "NAV": "НАВ",
     "VIEW": "ВЫГЛ",
     "CNTR": "ЦНТР",
@@ -1070,6 +1182,8 @@
     "AA": "ЗСУ",
     "SAM IR": "ЗРК ІЧ",
     "SAM R": "ЗРК Р",
+    "SAM\nIR": "ЗРК\nІЧ",
+    "SAM\nR": "ЗРК\nР",
     "IR SAM": "ІЧ ЗРК",
     "R SAM": "Р ЗРК",
     "BNKR": "БНКР",
@@ -1079,12 +1193,14 @@
     "LADS": "ЛАДС",
     "TRK": "ГРУЗ",
     "CMD": "КП",
-    "MANDAPS": "ПЗРК",
+    "MANPADS": "ПЗРК",
     "TWR": "ВЕЖА",
     "HPAD": "В-ПЛАЦ",
     "IFV": "БМП",
     "LCV45": "ЛБМ45",
     "LCV25": "ЛБМ25",
+
+    // ========== Units ==========
     "Fighter": "Знішчальнік",
     "Bomber": "Бамбардзіроўшчык",
     "Attacker": "Штурмавік",
@@ -1106,6 +1222,13 @@
     "Hostile": "Варожы",
     "Bogey": "Неапазнаны",
     "Convoy": "Канвой",
+
+    // =========================================================================================
+    // UNIT AND SHIP NAMES
+    // To restore the original name for a specific unit, comment out the line (add // at the start).
+    // =========================================================================================    
+
+    // --- LCV & Hexhound ---
     "LCV25 AA": "ЛБМ25 ППА",
     "LCV25 AT": "ЛБМ25 ПТ",
     "Hexhound GMG": "Hexhound БМП",
@@ -1113,6 +1236,8 @@
     "M12 Jackknife": "M12 Jackknife",
     "MSV MRAP": "СВТ МРАП",
     "LCV45 Recon Truck": "ЛБМ45 Разведка",
+
+    // --- AFV & Linebreaker ---
     "AFV6 APC": "AFV6 БТР",
     "AFV6 IFV": "AFV6 БМП",
     "AFV6 AA": "AFV6 ППА",
@@ -1123,6 +1248,8 @@
     "Linebreaker APC": "Linebreaker БТР",
     "Linebreaker IFV": "Linebreaker БМП",
     "Linebreaker SAM": "Linebreaker ЗРК",
+
+    // --- Tanks & Support ---
     "Type-12 MBT": "АБТ Type-12",
     "Spearhead MBT": "АБТ Spearhead",
     "HLT Tractor": "ВВТ Цягач",
@@ -1136,6 +1263,8 @@
     "HLT Fire Control": "ВВТ Кіраванне",
     "MSV Radar": "СВТ РЛС",
     "HLT Radar Truck": "ВВТ РЛС",
+
+    // --- Special Systems ---
     "MSV CRAM": "СВТ ПРАМ",
     "MSV LADS": "СВТ ЛППА",
     "MSV Tractor": "СВТ Цягач",
@@ -1148,17 +1277,29 @@
     "MSV Nuclear Ballistic Missile Launcher": "СВТ ПУ Ядзер. Ракетаў",
     "MSV R9 Stratolance Launcher": "СВТ ПУ Stratolance R9",
     "StratoLance R9 Launcher": "ПУ Stratolance R9",
+
+    // --- Ship Types ---
     "Corvette": "Карвет",
     "Aircraft Carrier": "Авіяносец",
     "Landing Craft": "Дэсантны катар",
     "Destroyer": "Эсмінец",
+
+    // --- Ship names ---
     "Shard Class Corvette": "Карвет класа Shard",
     "Hyperion Class Carrier": "Авіяносец класа Hyperion",
     "Annex Class Carrier": "Авіяносец класа Annex",
     "OTB-31 landing craft": "Дэсантны катар OTB-31",
     "Dynamo Class Destroyer": "Эсмінец класа Dynamo",
+
     "Infantry Squad": "Пяхотнае Аддзяленне",
     "Empty": "Поражня",
+
+    // =========================================================================================
+    // UNIT AND SHIP NAMES
+    // To restore the original name for a specific unit, comment out the line (add // at the start).
+    // =========================================================================================   
+
+    // --- (Factions & UI) ---
     "BOSCALI": "БОСКАЛІ",
     "Boscali Defense Force": "Сілы абароны Баскалі",
     "PRIMEVA": "ПРЫМЕВА",
@@ -1197,6 +1338,23 @@
     "Destroy Production Facility": "Знішчыць Вытворчы Комплекс",
     "Destroy Research Facility": "Знішчыць Даследчы Цэнтр",
     "Sink Fleet Carrier": "Патапіць Авіяносець",
+    "Destroy Support Vehicle Factories": "Знішчыць Заводы Дапаможнай Тэхнікі",
+    "Destroy Armour Factories": "Знішчыць Бранятанкавыя Заводы",
+    "Primary: Capture": "Асноўная: Захапіць",
+    "Capture Feldspar Airport": "Захапіць Аэрапорт Фельдспар",
+    "CaptureAirbase": "Захапіць Авіябазу",
+    "Destroy Boscali Nuclear Facility": "Знішчыць Ядзерны Аб’ект Боскалі",
+    "Destroy Boscali Fuel Facility": "Знішчыць Паліўны Аб’ект Боскалі",
+    "Destroy Boscali Aircraft Facility": "Знішчыць Авіяцыйны Аб’ект Боскалі",
+    "Destroy Boscali Production Facility": "Знішчыць Вытворчы Аб’ект Боскалі",
+    "Destroy BDF Observation Post": "Знішчыць Назіральны Пункт BDF",
+    "Kill the BDF Feldspar Officers": "Ліквідаваць Афіцэраў BDF Фельдспар",
+    "Primary: Capture Feldspar Airport": "Асноўная: Захапіць Аэрапорт Фельдспар",
+    "Destroy Nuclear Facility": "Знішчыць Ядзерны Аб’ект",
+    "Active": "Актыўнае",
+    "Primary": "Асноўная",
+    "Completed": "Виканана",
+
     "CI-22 factory": "Завод CI-22",
     "T/A-30 factory": "Завод T/A-30",
     "UH-90 factory": "Завод UH-90",
@@ -1214,6 +1372,8 @@
     "SAM IR factory": "Завод ЗРК ІЧ",
     "SAM R factory": "Завод ЗРК Р",
     "SPAAG factory": "Завод ЗСУ",
+
+    // ========== Mission Editor ==========
     "New Mission": "Новая місія",
     "New": "Стварыць",
     "Player Mode": "Рэжым гульца",
@@ -1233,6 +1393,8 @@
     "Faction Filter:": "Фільтр фракцыі:",
     "Faction Filter": "Фільтр фракцыі",
     "<no filter>": "<без фільтра>",
+
+    // --- Objective Types ---
     "Start Objective": "Пачаць заданне",
     "Stop Or Complete Objective": "Спыніць або завяршыти заданне",
     "Show Message": "Паказаць паведамленне",
@@ -1252,18 +1414,24 @@
     "Spot Unit": "Выявіць адзінку",
     "Crash Aircraft": "Разбіць самалёт",
     "Successful Sortie": "Паспяховы вылет",
+
+    // ========== Forces Panel ==========
     "PLAYERS": "ГУЛЬЦЫ",
     "RESERVES": "РЭЗЕРВ",
     "LOSSES": "СТРАТЫ",
     "VALUE": "КОШТ",
     "MANPOWER": "ШТАТ",
     "Forces": "Сілы",
+
+    // ========== Buy / Purchase Tooltip ==========
     "Funds:": "Сродкі:",
     "Funds :": "Сродкі :",
     "Remain:": "Засталося:",
     "Remain :": "Засталося :",
     "Remaining:": "Засталося:",
     "Remaining": "Засталося",
+
+    // ========== Donate Dialog ==========
     "DONATE TO THE WAR EFFORT": "ПАДТРЫМАЦЬ ВАЕННЫЯ НАМАГАННІ",
     "Donate to the War Effort": "Падтрымаць ваенныя намаганні",
     "Contribute funds or vehicles to the war effort": "Зрабіце ўнёсак у выглядзе сродкаў або тэхнікі",
@@ -1284,16 +1452,22 @@
     "Remaining funds": "Засталося сродкаў",
     "CANCEL": "АДМЯНІЦЬ",
     "CONFIRM": "ПАЦВЕРДЗІЦЬ",
+
+    // --- Donate Unit Types ---
     "Tank Platoon": "Танкавы ўзвод",
     "Mechanized Company Group": "Механізаваная ротная група",
     "Armoured Company Group": "Бранятанкаваная ротная група",
     "Combined Arms Company": "Загальнавайсковая рота",
+
+    // ========== Pause Menu ==========
     "RESUME MISSION": "ПРАЦЯГНУЦЬ",
     "Resume Mission": "Працягнуць",
     "HIDE UI": "СХАВАЦЬ ІЛС",
     "Hide UI": "Схаваць ІЛС",
     "RESTART MISSION": "ПЕРАЗАПУСЦІЦЬ",
     "Restart Mission": "Перазапусціць",
+
+    // ========== Mission Editor (additional) ==========
     "Other Unit": "Іншая адзінка",
     "Other Units": "Іншыя адзінкі",
     "OTHER UNIT": "ІНШАЯ АДЗІНКА",
@@ -1309,6 +1483,8 @@
     "Naval Units": "Марскія адзінкі",
     "Air Unit": "Паветраная адзінка",
     "Air Units": "Паветраныя адзінкі",
+
+    // ========== Controls Settings ==========
     "BINDING SETTINGS": "НАЛАДЫ ПРЫЗНАЧЭННЯ",
     "Binding Settings": "Налады прызначэння",
     "Open Control Bindings Menu": "Адкрыць меню прызначэння клавіш",
@@ -1327,6 +1503,8 @@
     "View Smoothing": "Згладжванне агляду",
     "Button Hold Delay": "Затрымка ўтрымання кнопкі",
     "Button Click Delay": "Затрымка кліку кнопкі",
+
+    // ========== Gameplay Settings Detail ==========
     "UNIT SYTEM": "СІСТЭМА МЕР",
     "UNIT SYSTEM": "СІСТЭМА МЕР",
     "Unit System": "Сістэма мер",
@@ -1349,6 +1527,8 @@
     "Minimum Value": "Мінімальная вартасць",
     "Munitions": "Баяпрыпасы",
     "Building": "Будынкі",
+
+    // ========== Key Bindings UI ==========
     "Done": "Готава",
     "Restore Defaults": "Аднавіць па змаўчанні",
     "Controller:": "Кантролер:",
@@ -1362,6 +1542,8 @@
     "Actions": "Дзеянні",
     "Keyboard": "Клавіятура",
     "Controller": "Кантролер",
+
+    // --- Key Bindings: Game Actions ---
     "Increase FoV": "Павялічыць ВАТ",
     "Decrease FoV": "Паменшыць ВАТ",
     "Move Longitudinal": "Падоўжнае перамяшчэнне",
@@ -1392,6 +1574,8 @@
     "Radial Menu Vertical": "Кругавое меню по вертыкалі",
     "Radial Menu Up": "Кругавое меню ўверх",
     "Radial Menu Down": "Кругавое меню ўніз",
+
+    // --- Key Bindings: Camera Actions ---
     "Center View": "Адцэнтраваць агляд",
     "Switch View": "Пераключыць агляд",
     "Tilt View": "Нахіл агляду",
@@ -1405,6 +1589,8 @@
     "Look Down": "Позірк уніз",
     "Look Left": "Позірк налева",
     "Look Right": "Позірк направа",
+
+    // --- Key Bindings: Combat Actions ---
     "Link Guns": "Звязаць гарматы",
     "Toggle Turret Control": "Пераключыць кіраванне турэллю",
     "Next Countermeasure": "Наступны сродак процідзеяння",
@@ -1414,6 +1600,8 @@
     "Toggle Night Vision": "Укл./Выкл. начное бачанне (ПНБ)",
     "Toggle Navigation Lights": "Укл./Выкл. навігацыйныя агні",
     "Axis Modifier": "Мадыфікатар восі",
+
+    // --- Key Bindings: Flight Controls ---
     "Flight Controls": "Кіраванне палётам",
     "Camera Controls": "Кіраванне камерай",
     "Pitch Axis": "Вось тангажу",
@@ -1425,6 +1613,8 @@
     "Brake Axis": "Вось тормазу",
     "Apply Brakes": "Застосаваць тормазы",
     "Brake Axis -": "Вось тормазу -",
+
+    // ========== Chat Settings ==========
     "CHAT SETTINGS": "НАЛАДЫ ЧАТУ",
     "Chat Settings": "Налады чату",
     "Chat Enabled": "Чат уключаны",
@@ -1434,6 +1624,8 @@
     "Text To Speech Speed": "Хуткасць TTS",
     "Text To Speech Volume": "Гучнасць TTS",
     "Test TTS Speed": "Тэст хуткасці TTS",
+
+    // ========== HUD Settings Detail ==========
     "COMMON SETTINGS": "АГУЛЬНЫЯ НАЛАДЫ",
     "Common Settings": "Агульныя налады",
     "HMD Text Size": "Памер тэксту на шлеме",
@@ -1471,6 +1663,7 @@
     "MUNITIONS": "Б/К",
     "EW": "РЭБ",
     "LOG": "ЛОГ",
+
     "Next aircraft:\nNever": "Наступны борт:\nНіколі",
     "Requisition\n via Rank (0)": "Атрымаць\n Ранг (0)",
     "Requisition\n via Rank (1)": "Атрымаць\n Ранг (1)",
@@ -1478,6 +1671,7 @@
     "Requisition\n via Rank (3)": "Атрымаць\n Ранг (3)",
     "Requisition\n via Rank (4)": "Атрымаць\n Ранг (4)",
     "Requisition\n via Rank (5)": "Атрымаць\n Ранг (5)",
+    
     "Purchase for\n$11,5m": "Купіць за\n$11,5 млн",
     "Purchase for\n$21,8m": "Купіць за\n$21,8 млн",
     "Purchase for\n$29,5m": "Купіць за\n$29,5 млн",
@@ -1489,6 +1683,7 @@
     "Purchase for\n$126m": "Купіць за\n$126 млн",
     "Purchase for\n$145m": "Купіць за\n$145 млн",
     "Purchase for\n$225m": "Купіць за\n$225 млн",
+
     "Return\nCI-22 Cricket": "Вярнуць\nCI-22 Cricket",
     "Return\nT/A-30 Compass": "Вярнуць\nT/A-30 Compass",
     "Return\nUH-90 Ibis": "Вярнуць\nUH-90 Ibis",
@@ -1500,6 +1695,8 @@
     "Return\nKR-67 Ifrit": "Вярнуць\nKR-67 Ifrit",
     "Return\nEW-25 Medusa": "Вярнуць\nEW-25 Medusa",
     "Return\nSFB-81 Darkreach": "Вярнуць\nSFB-81 Darkreach",
+
+    // ========== Graphics Settings Detail ==========
     "TEXTURE QUALITY": "ЯКАСЦЬ ТЭКСТУР",
     "SHADOWS QUALITY": "ЯКАСЦЬ ЦЕНЯЎ",
     "VARIOUS OPTIONS": "РОЗНАЕ",
@@ -1508,10 +1705,16 @@
     "Clouds Detail": "Дэталізацыя воблакаў",
     "Cinematic Mode": "Кінематаграфічны рэжым",
     "Debug Visualizations": "Візуалізацыя адладкі",
+
+    // ========== Early Access / Version ==========
     "Early Access Version": "Версія ў раннім доступе",
     "Early Access": "Ранні доступ",
+
+    // ========== Did You Know? Title ==========
     "Did you know?": "Ці ведалі вы?",
     "DID YOU KNOW?": "ЦІ ВЕДАЛІ ВЫ?",
+
+    // ========== Encyclopedia - Aircraft Descriptions ==========
     "Designed for counter insurgency operations and low-intensity battlefields, the CI-22 Cricket features robust landing gear and short takeoff and landing capability, allowing it to operate from unprepared fields. While lacking in speed and survivability, the CI-22 possesses remarkable agility and the ability to mount an array of weapon types": "Створаны для супрацьпартызанскіх аперацый і канфліктаў нізкай інтэнсіўнасці, CI-22 Cricket абсталяваны надзейным шасі і здольнасцю да скарочанага ўзлёту і пасадкі, што дазваляе яму дзейнічаць з непадрыхтаваных палёў. Нягледзячы на недахоп хуткасці і жывучасці, CI-22 валодае дзіўнай манеўранасцю і магчымасцю несці шырокі спектр узбраення.",
     "Designed for counter insurgency operations and low-intensity battlefields, the CI-22 Cricket features robust landing gear and short takeoff and landing capability, allowing it to operate from unprepared fields. While lacking in speed and survivability, the CI-22 possesses remarkable agility and the ability to mount an array of weapon types.": "Створаны для супрацьпартызанскіх аперацый і канфліктаў нізкай інтэнсіўнасці, CI-22 Cricket абсталяваны надзейным шасі і здольнасцю да скарочанага ўзлёту і пасадкі, што дазваляе яму дзейнічаць з непадрыхтаваных палёў. Нягледзячы на недахоп хуткасці і жывучасці, CI-22 валодае дзіўнай манеўранасцю і магчымасцю несці шырокі спектр узбраення.",
     "An advanced jet trainer which is well suited for light combat duty, the T/A-30 is highly maneuverable at low to medium speeds and possesses forgiving flight characteristics. Particularly adept at low-altitude strike missions, the Compass features redundant control surfaces and twin engines to improve survivability.": "Сучасны рэактыўны навучальна-трэніровачны самалёт, які выдатна падыходзіць для лёгкіх баявых задач, T/A-30 надзвычай манеўраны на нізкіх і сярэдніх хуткасцях і валодае стабільнымі палётнымі характарыстыкамі. Compass асабліва эфектыўны ў ударных місіях на малых вышынях, мае дубляваныя паверхні кіравання і два рухавікі для павышэння жывучасці.",
@@ -1524,11 +1727,15 @@
     "A large, carrier capable, twin engine multirole fighter, the Ifrit is equally suited to air superiority and ground attack missions. It features excellent thrust and maneuverability alongside reduced radar signature and powerful sensors. Two internal weapon bays can conceal up to 6 missiles or bombs.": "Вялікі двухрухавіковы шматмэтавы палубны знішчальнік, Ifrit аднолькава добра падыходзіць для заваявання перавагі ў паветры і для ўдараў па наземных цэлях. Ён валодає выдатнай цягай і манеўранасцю разам з малой радыёлакацыйнай заўважнасцю і магутнымі сэнсарамі. Два ўнутраныя адсекі могуць змясціць да 6 ракет або бомбаў.",
     "The EW-25 is a short take-off, vertical landing (STOVL) support aircraft with a variety of powerful electronic warfare systems. Able to triangulate radar positions, jam enemy radar installations, suppress air defences, and even shoot down missiles with a high energy laser, a single Medusa can easily turn the tide of a battle.": "EW-25 — гэта самалёт падтрымкі з укарочаным узлётам і вертыкальнай пасадкай (УУВП), аснашчаны магутнымі сістэмамі радыёэлектроннай барацьбы (РЭБ). Здольная трыянгуляваць пазіцыі радараў, глушыць варожыя радыёлакацыйныя ўстаноўкі, прыглушаць ППА і нават збіваць ракеты з дапамогай высокаэнергетычнага лазера, адна Medusa можа лёгка змяніць ход бітвы.",
     "Featuring powerful engines, a stealthy silhouette, and 4 large internal weapon bays, the SFB-81 Darkreach is a formidable bomber capable of deploying both conventional and nuclear weapons. Its blended wing design allows the Darkreach to conduct operations in a variety of flight regimes, from low-altitude penetrating strikes to standoff strategic bombardment.": "SFB-81 Darkreach — гэта грозны бамбардзіроўшчык з магутнымі рухавікамі, стэлс-сілуэтам і 4 вялікімі ўнутранымі зброевымі адсекамі, здольны несці як звычайнае, так і ядзернае ўзбраенне. Канструкцыя па схеме «змяшанае крыло» дазваляе яму дзейнічаць у розных рэжымах: ад нізкавышынных пранікальных удараў да дыстанцыйнага стратэгічнага бамбардзіравання.",
+
+    // ========== Encyclopedia - Ship Descriptions ==========
     "An amphibious assault ship which can support rotary wing and V/STOL aircraft operations. It has a well deck from which it can launch landing craft, and it can perform shore bombardment with its 76mm cannon and dual-purpose 40mm point defence guns.": "Дэсантны карабель, здольны забяспечваць аперацыі верталётаў і самалётаў ВУ/УУП. Мае докавую камеру для запуску дэсантных катараў і можа весці абстрэл берага з 76-мм гарматы і 40-мм універсальных гармат самаабароны.",
     "This compact warship is well equipped for defending coastal areas, armed with a 57mm cannon, 20mm point defense system, and battery of vertically launched RAM-45 missiles. A small landing pad at the stern allows it to serve as a mobile re-arming and refueling point for helicopters.": "Гэты кампактны ваенны карабель добра абсталяваны для абароны прыбярэжных раёнаў: узброены 57-мм гарматай, 20-мм сістэмай точкавай абароны і батарэяй вертыкальных ракет RAM-45. Невялікая пляцоўка на карме дазваляе яму служыць мабільным пунктам перааснашчэння і дазапраўкі верталётаў.",
     "This guided missile destroyer is armed with a battery of vertically launched cruise missiles and a 155mm railgun in its forward turret. Its powerful defensive armament of two MMR-S3 batteries, three R9 vertical launchers and four 30mm CIWS turrets, makes the Dynamo class a powerful warship, able to defend a fleet from any threat.": "Гэты эсмінец з кіраваным ракетным узбраеннем аснашчаны батарэяй крылатых ракет вертыкальнага запуску і 155-мм рэйкатронам у насавой вежы. Магутнае абарончае ўзбраенне з дзвюх батарэй MMR-S3, трох установак R9 і чатырох 30-мм ЗАК робіць клас Dynamo магутным караблём, здольным абараніць флот ад любой пагрози.",
     "The Hyperion class features a short take-off ramp and arrestor gear on its landing runway, and can accommodate a variety of aircraft types. Defended by two MMR-S3 batteries, one RAM-45 launcher, and two 30mm CIWS turrets, this fleet carrier is capable of countering most aerial threats.": "Клас Hyperion мае трамплін для скарочанага ўзлёту і аэрафінішор на пасадачнай паласе, што дазваляе прымаць розныя тыпы самалётаў. Абаронены дзвюма батарэямі MMR-S3, адной устаноўкай RAM-45 і дзвюма 30-мм вежамі ЗАК, гэты эскадраны авіяносец здольны супрацьстаяць большасці паветраных пагроз.",
     "Designed for rapidly delivering vehicles from Annex class assault carriers to landing points, this fast hovercraft can carry up to 80 tons of cargo and is equipped with an IRM-S1 launcher and heavy machine gun for self defense.": "Гэтае хуткаснае судна на паветранай падушцы прызначана для аператыўнай дастаўкі тэхнікі з дэсантных караблёў класа Annex. Яно можа перавозіць да 80 тон грузу і абсталявана ўстаноўкай IRM-S1 і цяжкім кулямётам для самаабароны.",
+
+    // ========== Encyclopedia - Building Descriptions ==========
     "Designed to supplement and eventually replace human sentries, the pillbox represents part of a networked perimeter monitoring system. The hardened structure houses a pair of autonomous 12.7mm machine gun turrets.": "Створаны для дапаўнення і ў выніку замены жывых вартавых, дот з'яўляецца часткай сеткавай сістэмы маніторынгу перыметра. Ва ўмацаванай структуры размешчана пара аўтаномных 12.7-мм кулямётных турэляў.",
     "Airbase traffic control tower": "Дыспетчарская вежа авіябазы",
     "Supplies fissile material for nuclear weapons. Having an enrichment plant ensures a steady supply of nuclear warheads.": "Пастаўляе расшчапляльны матэрыял для ядзернай зброі. Наяўнасць абагачальнага завода забяспечвае стабільныя пастаўкі ядзерных боегаловак.",
@@ -1547,6 +1754,8 @@
     "Aviation fuel depot that can fill empty aircraft tanks within 300m.": "Склад авіяцыйнага паліва, здольны запраўляць пустыя бакі самалётаў у радыусе 300 метраў.",
     "This manually aimed static air defense position is a simple and low-cost means of defending point targets from helicopters and other low-flying aircraft. Its small size and low profile make it difficult to spot from a distance.": "Гэта статычная пазіцыя ППА з ручным навядзеннем з'яўляецца простым і недарагім сродкам абароны точачных цэляў ад верталётаў і іншых самалётаў на нізкай вышыні. Невялікі памер і нізкі профіль робяць яе цяжкапрыкметнай здалёк.",
     "The IRM-S1 is a man-portable air defense system (MANPADS) effective at countering air threats within 5km. An infrared homing seeker allows the missile to lock onto any aerial target with a heat signature.": "IRM-S1 — гэта пераносны зенітна-ракетны комплекс (ПЗРК), эфектыўны супраць паветраных пагроз у радыусе 5 км. Інфрачырвоная галоўка саманавядзення дазваляе ракеце захапіць любую паветраную цэль з цеплавым следам.",
+    
+    // ========== Encyclopedia - Missile/Weapon Descriptions ==========
     "Optically guided 500kg bomb, ideal for attacking convoys and large buildings.": "500-кг бомба з аптычным навядзеннем, ідэальная для атак на канвоі і вялікія будынкі.",
     "A small optically guided 125kg bomb, ideal for destroying vehicles and small buildings in low level attacks.": "Невялікая 125-кг бомба з аптычным навядзеннем, ідэальная для знішчэння тэхнікі на малых вышынях.",
     "Optically guided 250kg bomb capable of destroying heavily armored vehicles and small buildings.": "250-кг бомба з аптычным навядзеннем, здольная знішчаць цяжкабраняваную тэхніку.",
@@ -1579,6 +1788,8 @@
     "A 3kg HE warhead housed in a fin-stabilised airframe. Uses canard control for terminal guidance that is provided by an electro-optical seeker head.": "3-кг фугасная боегалоўка з аптычным навядзеннем і аэрадынамічнай схемай «качка».",
     "Optically guided 250kg bomb, fitted with range extension kit to allow it to glide over long distances.": "250-кг плануючая бомба з аптычным навядзеннем для ўдараў з вялікай адлегласці.",
     "This 500kg long range glide bomb is meant for standoff attacks against large buildings, using optical sensor for terminal guidance.": "500-кг плануючая бомба для дыстанцыйных атак на буйныя будынкі.",
+
+    // ========== Encyclopedia - Vehicle Descriptions ==========
     "The LCV25 is a 4x4 all terrain vehicle, offered in AA or AT configurations, combining the agility of a light recon vehicle with the firepower of heavier fighting vehicles. It is air transportable, with 2 units fitting inside the cargo bay of a VL-49 Tarantula.": "ЛБМ25 — гэта паўнапрывадны аўтамабіль 4x4 у канфігурацыях ППА або ПТ. Спалучае манеўранасць разведчыка з агнявой моцай цяжкай машыны. Транспартуецца па паветры (2 адзінкі ў Tarantula).",
     "Heavy duty tractor cab for hauling large trailer systems": "Цяжкі цягач для буксіроўкі вялікіх прычэпаў.",
     "Tractor unit for hauling trailer systems": "Цягач для буксіроўкі прычэпаў.",
@@ -1617,9 +1828,11 @@
     "Modular Support Vehicle carrying a Laser Air Defence System capable of destroying small calibre aerial munitions.": "МТС з лазернай сістэмай ППА для перахопу снарадаў і ракет.",
     "A Modular Support Vehicle equipped with a 20mm rotary gun to provide point defence against shells, missiles, bombs, and low flying aircraft.": "МТС з 20-мм ротарнай гарматай для точачнай абароны аб'ектаў.",
     "Long range launcher armed with a pair of HE Piledrivers. Will deploy and fire automatically on known datalinked targets once the strategic escalation threshold is met.": "Пускавая ўстаноўка вялікай дальнасці, узброеная парай фугасных ракетаў Piledriver. Аўтаматычна разгортваецца і страляе па вядомых цэлях з даталінка, як толькі дасягнуты парог стратэгічнай эскалацыі.",
-    "Long range launcher armed with a pair of 20kt Nuclear Piledrivers. Will deploy and fire automatically on known datalinked targets once the strategic escalation threshold is met.": "Пускавая ўстаноўка вялікай дальнасці, узброеная парай 20-кт ядзерных ракетаў Piledriver. Аўтаматычна разгортваецца і страляе па вядомых цэлях з даталінка, як толькі дасягнуты парог стратэгічнай эскалацыі.",
+    "Long range launcher armed with a pair of 20kt Nuclear Piledrivers. Will deploy and fire automatically on known datalinked targets once the strategic escalation threshold is met.": "Пускавая ўстаноўка вялікай дальнасці, узброеная парай 20-кт ядзерных ракетаў Piledriver. Аўтаматычна разгортваецца і страляе па вядомых цэлях з даталінка, як толькі дасягнуты парог стратэгічнай эскалацыі.",,
     "Long-range air-to-air missile using a ramjet sustainer motor for beyond visual range (BVR) engagements. The AAM-36 takes approximately 20 seconds to reach a top speed of Mach 4.": "Ракета паветра-паветра вялікай дальнасці з праматочным рухавіком. Набірае хуткасць 4 Махі прыкладна за 20 секунд.",
     "Designed for long-range precision strikes against high value targets, this tactical ballistic missile leaves the atmosphere before reentering on a steep trajectory, exceeding Mach 4 on impact. The Piledriver is virtually impossible to intercept without long range missile defenses in the vicinity of the target.": "Створаная для высокадакладных удараў вялікай дальнасці па асабліва важных цэлях, гэтая тактычная балістычная ракета выходзіць з атмасферы перад тым, як вярнуцца па крутой траекторыі, перавышаючы 4 Махі падчас удару. Piledriver практычна немагчыма перахапіць без сістэм ППА вялікай дальнасці паблізу цэлі.",
+
+    // ========== Encyclopedia - Scenery/Other Descriptions ==========
     "Structural element": "Канструктыўны элемент",
     "Single Container": "Адзінарны кантэйнер",
     "Stacked Containers": "Складзеныя кантэйнеры",
@@ -1632,12 +1845,16 @@
     "Wreck": "Абломкі",
     "Ruin": "Руіны",
     "Contribute a group of vehicles to the faction": "Перадаць групу тэхнікі фракцыі",
+
+    // ========== Encyclopedia - Other Units ==========
     "Allows continuous weapon rearmament for ground vehicles and aircraft within 100m. Avoid subjecting the container to large impact forces, as it may detonate.": "Дазваляе бесперапыннае перааснашчэнне наземнай тэхнікі і самалётаў у радыусе 100 метраў. Пазбягайце моцных удараў па кантэйнеры, бо ён можа здэтанаваць.",
     "Single-use container for replenishing a warship's ammunition stores. Has floatation devices and can be picked up by ships within 200m after being placed in the water.": "Аднаразовы кантэйнер для папаўнення боепрыпасаў карабля. Мае паплаўкі і можа быць падняты караблямі ў радыусе 200 м пасля скіду ў ваду.",
     "Single-use pallet for replenishing a warship's ammunition stores. Has floatation devices and can be picked up by ships within 200m after being placed in the water.": "Аднаразовы паддон для папаўнення боепрыпасаў карабля. Мае паплаўкі і можа быць падняты караблямі ў радыусе 200 м пасля скіду ў ваду.",
     "A single use, air transportable 1,500L fuel tank, commonly deployed at Forward Operating Bases.": "Аднаразовы авіятранспартабельны паліўны бак на 1500 л, звычайна размяшчаецца на перадавых аператыўных базах.",
     "An air transportable 6,000L fuel tank, commonly deployed at Forward Operating Bases.": "Авіятранспартабельны паліўны бак на 6000 л, звычайна размяшчаецца на перадавых аператыўных базах.",
     "An air transportable 10,000L fuel tank, commonly deployed at Forward Operating Bases.": "Авіятранспартабельны паліўны бак на 10 000 л, звычайна размяшчаецца на перадавых аператыўных базах.",
+
+    // ========== Did You Know? Hint Bodies (1-56) ==========
     "You can issue movement orders to friendly ground units by selecting them on the map, and then right clicking where you want them to go to.": "Вы можаце аддаваць наказы на перамяшчэнне саюзным наземным адзінкам, выбраўшы іх на карце і націснуўшы правую кнопку мышы там, куды яны павінны накіравацца.",
     "You can order manned turrets on your aircraft to Hold fire by pressing and holding the 'Next Weapon' button.": "Вы можаце загадаць турэлям на вашым самалёце спыніць агонь, націснуўшы і ўтрымліваючы кнопку «Наступная зброя».",
     "A GPO-N has a delay fuse that only lasts for up to 16 seconds, but can create radioactive residue that lasts for years.": "GPO-N мае падрыўнік з затрымкай да 16 секунд, але можа стварыць радыёактыўныя ападкі, якія застануцца на гады.",
@@ -1694,6 +1911,8 @@
     "The speed of sound is approximately 340 m/s (1100 ft/s) at sea level, decreasing to 295 m/s (970 ft/s) above 11,000m (36,000 ft).": "Хуткасць гуку складае каля 340 м/с ля зямлі і падае да 295 м/с на вышыні 11 000 м.",
     "A Piledriver may cross the Karman line at the top of its ballistic flight.": "Ракета Piledriver можа перасякаць лінію Кармана (мяжу космасу) у найвышэйшым пункце палёту.",
     "Transonic airspeeds see an increase in drag between M0.8 and M1.2, generating a large condensation vapor cone around the aircraft.": "На трансгукавых хуткасцях (M0.8–M1.2) супраціўленне расце, ствараючы вакол самалёта кандэнсацыйны конус.",
+
+    // ========== Did You Know? Hint Bodies (57-112) ==========
     "The large cargo bay of the VL-49 Tarantula can contain a single AFV6, 2 containers or 2 Demolition Bombs.": "Вялікі грузавы адсек VL-49 Tarantula можа змясціць адзін AFV6, 2 кантэйнеры або 2 падрыўныя бомбы.",
     "Aircraft without a built-in defensive jammer can take an ECM Pod on an external hardpoint to help defeat radar guided missiles.": "Самалёты без убудаванага генератара перашкод могуць узяць кантэйнер РЭБ на знешнюю кропку падвескі для абароны ад ракет з радыёлакацыйным навядзеннем.",
     "The AAM-36 Scimitar can reach a top speed of Mach 4 and hit aerial targets over 100km away, thanks to its ramjet engine, which makes it an excellent missile for Beyond Visual Range (BVR) engagements.": "AAM-36 Scimitar можа дасягаць хуткасці ў 4 Махі і паражаць цэлі на адлегласці больш за 100 км дзякуючы праматочнаму рухавіку, што робіць яе выдатнай ракетай для бою па-за межамі візуальнай бачнасці (ДВБ).",
@@ -1750,12 +1969,16 @@
     "The PAB-80LR is small enough to fit inside most aircraft weapon bays, which provides stealth aircraft with fit for purpose stand-off attack weapon.": "Бомба PAB-80LR змяшчаецца ва ўнутраных адсеках большасці самалётаў, забяспечваючы стэлс-апараты зброяй для дыстанцыйных атак.",
     "All ships Close In Weapon Systems (CIWS) turrets use the ship's radar to aquire their target and fall back on optical detection when the radar is not available.": "Усе карабельныя зенітныя комплексы (ЗАК) выкарыстоўваюць радар для захопу цэлі і пераходзяць на оптыку, калі радар недаступны.",
     "The PAB-250LR is a standard PAB-250 fitted with a glide kit, allowing the bomb to fly much further and reach distant targets. It still retains its rather large RCS.": "PAB-250LR — гэта стандартная бомба PAB-250 з плануючым камплектам для вялікай дальнасці, але яна захоўвае значную ЭПР.",
+
+    // ========== Faction Settings Tooltips ==========
     "The pool of starting funds, from which regular incomes and join allocations are drawn from. Player donations, contribution, and kill rewards from AI units go back into this pool. If the pool exceeds the starting amount, the excess is split amongst the current players.": "Пул пачатковых сродкаў для выплат. Пожертвы гульцоў і ўзнагароды за ШІ вяртаюцца сюды. Лішкі размяркоўваюцца паміж гульцамі.",
     "The base rate of income players receive from the faction HQ. This value is per player. If the faction runs out of money, this income will stop.": "Базавая стаўка даходу, якую гульцы атрымліваюць ад штаба фракцыі. Калі грошы ў фракцыі скончацца, выплаты спыняцца.",
     "The percentage of funds above the <b>Excess Funds Threshold</b> (initially the starting balance) that is distributed alongside regular income.": "Адсотак сродкаў звыш <b>Парога лішкавых сродкаў</b>, які размяркоўваецца разам з рэгулярным даходам.",
     "The amount of starting funds players receive when joining. This is paid from the faction funds, which can overdraw for this purpose.": "Сума сродкаў, якую гулец атрымлівае пры далучэнні. Выплачваецца з казны фракцыі (можа ісці ў мінус).",
     "Multiplier for the money received when score is earned. A value of 100% means $1m for every point scored. Score is calculated as the square root of a unit's price, in millions.": "Множнік грошай за ачкі. 100% азначае $1 млн за ачко. Ачкі — гэта квадратны корань з цаны адзінкі ў мільёнах.",
     "How much of a reward goes back into the Faction HQ. A value of 100% means all money earned is redistributed by the faction, while a value of 0% means the player who earned the score keeps all of the money.": "Колькі ўзнагароды вяртаецца ў штаб. 100% — поўнае пераразмеркаванне фракцыяй, 0% — гулец пакідае ўсё сабе.",
+
+    // ========== Weapon/Cannon Descriptions ==========
     "This rotary cannon fires 20mm explosive shells at 6000 rounds per minute, making it highly effective against aerial targets.": "Гэта ротарная гармата страляе 20-мм фугаснымі снарадамі (6000 пост./хв.), што робіць яе вельмі эфектыўнай супраць паветраных цэляў.",
     "The 20mm rotary cannon fires dual purpose explosive shells, effective against aircraft or moderately armored surface targets.": "20-мм ротарная гармата страляе фугаснымі снарадамі падвойнага прызначэння: супраць самалётаў і лёгкай брані.",
     "The 25mm rotary cannon fires dual purpose explosive shells, effective against aircraft or moderately armored surface targets.": "25-мм ротарная гармата страляе фугаснымі снарадамі падвойнага прызначэння: супраць самалётаў і браніраваных цэляў.",
@@ -1770,6 +1993,10 @@
     "A heavy forward fixed cannon, firing 57mm multi-purpose warheads at 250rpm. Automatically adjusts fuzing type and timing according to target parameters.": "Цяжкая курсавая гармата (57 мм, 250 пост./хв.). Аўтаматычна наладжвае тып падрыўніка пад параметры цэлі.",
     "An autoloaded 76mm gun, firing fin-stabilised guided projectiles. The gun requires airflow for cooling. It has a maximum firerate of 60RPM for 10 seconds, and can sustain a constant firerate of at least 40 RPM while moving at 500kph": "Аўтаматычная 76-мм гармата, якая страляе аперанымі кіраванымі снарадамі. Для ахалоджвання гарматы патрабуецца паветраны паток. Мае максімальную хуткастрэльнасць 60 пост./хвіл. на працягу 10 секунд і можа падтрымліваць пастаянную хуткастрэльнасць не менш за 40 пост./хвіл. пры руху са хуткасцю 500 км/г.",
     "Allowing a traverse range from -10 to +10 degrees and an elevation range from -20 to +5 degrees, this aimable cannon pod is effective against light armor or aircraft at distances of up to 2000m.": "Рухомы гарматны кантэйнер (куты ад -10 да +10 па гарызанталі) эфектыўны супраць лёгкай брані і самалётаў да 2000 м.",
+
+    // ========== MISSIONS, SCENARIOS AND TUTORIAL DESC ==========
+
+    //--- Missions ---
     "Fly a T/A-30 Compass on a ground attack mission. Use missiles, rockets, bombs and guns to destroy a BDF convoy of lightly defended vehicles.": "Здзейсніце вылет на T/A-30 Compass для атакі наземных цэляў. Выкарыстоўвайце ракеты, бомбы і гарматы, каб знішчыць канвой лёгкаабароненай тэхнікі BDF.",
     "Back to basics with bombs & guns on a CI-22 Cricket in a low-intensity engagement.": "Вяртанне да асноў: бомбы і гарматы на CI-22 Cricket у сутыкненні нізкай інтэнсіўнасці.",
     "In preparation for a large air raid, use the SAH-46 Chicane to neutralise several long range SAM systems.": "Падчас падрыхтоўкі да маштабнага авіаналёту выкарыстоўвайце SAH-46 Chicane для нейтралізацыі некалькіх дальнабойных ЗРК.",
@@ -1777,21 +2004,25 @@
     "Fly the T/A-30 Compass in an intense dogfight - your side is outnumbered 8 to 5.": "Кіруйце T/A-30 Compass у інтэнсіўным паветраным баі — вораг мае колькасную перавагу 8 да 5.",
     "Prevent a column of vehicles from crossing the bridge to Boscali Island, before neutralizing the attack at its source.": "Не дайце калоне тэхнікі перасекчы мост да вострава Баскалі, перш чым нейтралізаваць атаку ў яе зародку.",
     "Use various SEAD/DEAD abilities unique to the EW-25 Medusa to facilitate an attack against a heavily defended ammo dump.": "Выкарыстоўвайце ўнікальныя магчымасці ППАП/ЗППА самалёта EW-25 Medusa, каб спрыяць атацы на добра абаронены склад боепрыпасаў.",
-    "Fly an SAH-46 Chicane under the radar to eliminate an enemy forward arming and refueling point.": "Здзейсніце вылет на SAH-46 Chicane ніжэй за зону выяўлення радараў, каб знішчыць варожы перадавы пункт узбраення і запраўкі.",
-    "Fly the SFB-81 Darkreach on a bombing mission to destroy a PALA vehicle depot on a heavily defended airbase.": "Здзейсніце бомбавы вылет на SFB-81 Darkreach, каб знішчыць дэпо тэхнікі PALA на добра абароненай авіабазе.",
+    "Fly an SAH-46 Chicane under the radar to eliminate an enemy forward arming and refueling point.": "Здзейсніце вылет на SAH-46 Chicane ніжэй за зону выяўлення радараў, каб знішчыць варожы перадавы пункт узбраення і запраўкі.",    
+    "Fly the SFB-81 Darkreach on a bombing mission to destroy a PALA vehicle depot on a heavily defended airbase.": "Здзейсніце бомбавы вылет на SFB-81 Darkreach, каб знішчыць дэпо тэхнікі PALA на добра абароненай авіабазе.",  
     "Launch from an aircraft carrier and tackle a diverse set of targets in a versatile aircraft.": "Злятайце з авіяносца і атакуйце разнастайныя цэлі на ўніверсальным самалёце.",
     "After the success of operation Point Blank, the BDF looks to take ground inside Agrapol and establish a new forward base.\n\nUse the versatile VL-49 Tarantula - first in delivering units to capture a location, and then as a gunship to provide heavy fire support.": "Пасля поспеху місіі «Ва ўпор», BDF замацоўваецца ў Аграпалі. Выкарыстоўвайце VL-49 Tarantula: спачатку для высадкі дэсанту, далей — як ганшып для агнявой падтрымкі.",
     "An opportunity arises to take possession of a valuable piece of sea mining infrastructure. PALA and BDF try to beat each other to the punch.": "З'яўляється магчымасць захапіць каштоўны аб'ект марской здабыўной інфраструктуры. PALA і BDF спрабуюць апярэдзіць адзін аднаго.",
     "Fly the A-19 Brawler in a demanding, high tempo close air support mission as BDF narrowly defend Maris Airport against a massive PALA armoured assault.": "Здзейсніце вылет на A-19 Brawler у складанай і дынамічнай місіі па авіяпадтрымцы, пакуль BDF абараняе аэрапорт Марыс ад масіраванага штурму бранятэхнікі PALA.",
+
+    // --- Tutorials ---
     "Learn how to manage throttle, brake and rudder to safely taxi to the runway, before conducting your first take off. For this lesson you will be piloting the T/A-30 Compass trainer aircraft.": "Навучыцеся кіраваць цягай, тормазамі і рулём для бяспечнага рулення да УПП перад першым узлётам. У гэтым уроку вы будзеце пілатаваць навучальны самалёт T/A-30 Compass.",
     "Learn how to prepare for and perform a landing. For this lesson you will be piloting the T/A-30 Compass trainer aircraft.": "Навучыцеся рыхтавацца да пасадкі і выконваць яе. У гэтым уроку вы будзеце пілатаваць навучальны самалёт T/A-30 Compass.",
     "Learn how to designate targets and use missiles to destroy them. For this lesson you will be piloting the T/A-30 Compass trainer aircraft.": "Навучыцеся прызначаць цэлі і выкарыстоўваць ракеты для іх знішчэння. У гэтым уроку вы будзеце пілатаваць навучальны самалёт T/A-30 Compass.",
     "Learn how to use flares to defeat IR missiles. For this lesson you will be piloting the T/A-30 Compass trainer aircraft.": "Навучыцеся выкарыстоўваць ЛТЦ для процідзеяння ІЧ-ракетам. У гэтым уроку вы будзеце пілатаваць навучальны самалёт T/A-30 Compass.",
     "Learn how to defeat semi-active radar homing missiles. For this lesson you will be piloting the T/A-30 Compass trainer aircraft.": "Навучыцеся процідзейнічаць ракетам з напаўактыўным РЛ-навядзеннем. У гэтым уроку вы будзеце пілатаваць навучальны самалёт T/A-30 Compass.",
+    
+    // --- Scenarios ---
     "\"War? No. This is merely a peacekeeping initiative.\"\n\nLow intensity fighting over the disputed zone. Each side operates from a single forward airbase and must destroy the other's. Aircraft are restricted to counter-insurgency platforms, trainers, helicopters, and transports. No medium or long range air-to-air missiles are available. Air battles are resolved either with guns, or the relatively short ranged IRM-S1.": "«Вайна? Не. Гэта толькі міратворчая ініцыятыва»\n\nБаі нізкай інтэнсіўнасці за спрэчную зону. Кожны бок дзейнічае з адной перадавой авіябазы і павінен знішчыць базу праціўніка. Даступныя толькі проціпартызанскія самалёты, навучальныя барты, верталёты і транспарты. Ракеты П-П сярэдняй і далёкай дальнасці адсутнічаюць. Паветраныя баі вядуцца гарматамі або ракетамі малой дальнасці IRM-S1.",
     "Challenging co-op mission where PALA provokes the BDF navy, and must defend Vigil Cay airbase from a naval attack.": "Складаная кааператыўная місія: PALA правакуе флот BDF. Вы павінны абараніць авіябазу Вігіл-Кей ад марской атакі.",
     "A combined-arms battle on the eastern half of the map, limited to smaller aircraft. Each side has one main airbase and one forward airbase, with naval assets watching the flanks.": "Загальнавайсковы бой ва ўсходняй частці карты, абмежаваны малой авіяцыяй. Бакі маюць па адной асноўнай і перадавой базе; флот прыкрывае флангі.",
     "A battle for air superiority fought between two large airbases, using high-end assets. Rank 3 aircraft available at start.": "Бітва за перавагу ў паветры паміж дзвюма вялікімі авіябазамі з выкарыстаннем лепшай тэхнікі. Самалёты 3-га рангу даступныя з самага пачатку.",
-    "An enormous, high intensity war of attrition with all airbases active and using all available assets.\\u000B\\u000BSuccessively more powerful aircraft, and eventually thermonuclear weapons, are unlocked by increasing individual and team point score respectively.\n\nVictory is acheived when all enemy aircraft factories are destroyed and the enemy side's aircraft carrier, which will arrive midway through the battle, is sunk.": "Маштабная вайна на вынішчэнне: усе базы актыўныя, задзейнічаны ўсе рэсурсы.\n\nПаступова адкрываецца больш магутная авіяцыя і тэрмаядзерная зброя за кошт ачкоў гульца і каманды адпаведна.\n\nПерамога дасягаецца знішчэннем усіх авіязаводаў ворага і патапленнем авіяносца, які прыбудзе ў сярэдзіне бітвы.",
-    "A campaign of island hopping, in which BDF and PALA fight for control of the Ignus Archipelago.\\u000B\\u000BYour mission is to take and hold the Feldspar International Airport and surrounding smaller airstrips, and to sufficiently degrade the enemy's ability to launch further attacks.": "Кампанія на архіпелагу Ігнус: BDF і PALA змагаюцца за кантроль над астравамі.\n\nВаша задача — захапіць аэрапорт Фельдспар і навакольныя палосы, максімальна падарваўшы здольнасць ворага атакаваць."
+    "An enormous, high intensity war of attrition with all airbases active and using all available assets.\u000B\u000BSuccessively more powerful aircraft, and eventually thermonuclear weapons, are unlocked by increasing individual and team point score respectively.\n\nVictory is acheived when all enemy aircraft factories are destroyed and the enemy side's aircraft carrier, which will arrive midway through the battle, is sunk.": "Маштабная вайна на вынішчэнне: усе базы актыўныя, задзейнічаны ўсе рэсурсы.\n\nПаступова адкрываецца больш магутная авіяцыя і тэрмаядзерная зброя за кошт ачкоў гульца і каманды адпаведна.\n\nПерамога дасягаецца знішчэннем усіх авіязаводаў ворага і патапленнем авіяносца, які прыбудзе ў сярэдзіне бітвы.",
+    "A campaign of island hopping, in which BDF and PALA fight for control of the Ignus Archipelago.\u000B\u000BYour mission is to take and hold the Feldspar International Airport and surrounding smaller airstrips, and to sufficiently degrade the enemy's ability to launch further attacks.": "Кампанія на архіпелагу Ігнус: BDF і PALA змагаюцца за кантроль над астравамі.\n\nВаша задача — захапіць аэрапорт Фельдспар і навакольныя палосы, максімальна падарваўшы здольнасць ворага атакаваць."
 }
